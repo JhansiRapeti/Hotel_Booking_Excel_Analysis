@@ -82,4 +82,4 @@ Dashboard
 ![Dashboard](dashboard.png)
 
 Author
-**Jhansi Rapeti** — aspiring Data Analyst
+**Jhansi Rapeti** — Aspiring Data Analyst
